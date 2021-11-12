@@ -1,5 +1,5 @@
 # Remove-all-duplicates-characters
-Remove all duplicates characters from the string
+Remove all duplicates characters from the string in C
 
 A. Given a string S, your task is to remove all duplicates characters from the string S.
 
